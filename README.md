@@ -65,20 +65,13 @@ Each file contains 7 columns:
 
 ## 🚀 Getting Started
 ```bash
-# Clone the repository
-git clone https://github.com/your-username/supervised-learning-medical.git
 
 # Install dependencies
 pip install -r requirements.txt
 
-# Launch notebook
-jupyter notebook
 ```
 
 ---
 
-## 📌 Next Steps
-- Compare more classifiers: SVM, Decision Trees, Logistic Regression.
-- Perform feature engineering or PCA for dimensionality reduction.
-- Explore advanced tuning using GridSearchCV or RandomizedSearchCV.
-
+## 📌 Feel Free to Download and Use!
+- 
